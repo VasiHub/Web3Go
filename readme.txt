@@ -1,4 +1,4 @@
-My First Test Upgrade
+My First Test Upgrade in the GitHub
 === Astra ===
 Contributors: brainstormforce
 License: GPLv2 or later
